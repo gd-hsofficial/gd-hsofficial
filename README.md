@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning nothing 😅
 - 💞️ I’m looking to collaborate on MCPE
 - 📫 How to reach me 
-- Discord:- 
-- MCPEDL:-
-- Blogger:- gd-hsofficial.blogspot.com
+- Discord
+- MCPEDL
+- [Blogger](https://gd-hsofficial.blogspot.com/?m=1)
 <!---
 gd-hsofficial/gd-hsofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
